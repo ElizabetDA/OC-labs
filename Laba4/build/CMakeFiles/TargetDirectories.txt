@@ -1,5 +1,0 @@
-/home/elizabet/Repozitors/OC/Laba4/build/CMakeFiles/free_blocks_allocator.dir
-/home/elizabet/Repozitors/OC/Laba4/build/CMakeFiles/power2_allocator.dir
-/home/elizabet/Repozitors/OC/Laba4/build/CMakeFiles/allocator_test.dir
-/home/elizabet/Repozitors/OC/Laba4/build/CMakeFiles/edit_cache.dir
-/home/elizabet/Repozitors/OC/Laba4/build/CMakeFiles/rebuild_cache.dir

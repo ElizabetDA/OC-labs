@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libfree_blocks_allocator.so -o libfree_blocks_allocator.so CMakeFiles/free_blocks_allocator.dir/memory_allocator.c.o 

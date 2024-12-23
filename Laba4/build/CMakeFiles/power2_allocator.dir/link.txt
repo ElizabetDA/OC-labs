@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libpower2_allocator.so -o libpower2_allocator.so CMakeFiles/power2_allocator.dir/memory_allocator.c.o 
