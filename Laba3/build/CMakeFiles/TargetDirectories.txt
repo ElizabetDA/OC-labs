@@ -1,0 +1,4 @@
+/home/elizabet/Repozitors/OC/Laba3/build/CMakeFiles/parent.dir
+/home/elizabet/Repozitors/OC/Laba3/build/CMakeFiles/child.dir
+/home/elizabet/Repozitors/OC/Laba3/build/CMakeFiles/edit_cache.dir
+/home/elizabet/Repozitors/OC/Laba3/build/CMakeFiles/rebuild_cache.dir
